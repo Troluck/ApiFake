@@ -1,0 +1,34 @@
+{
+  "montres": [
+    {
+      "id": 1,
+      "title": "Apple Watch Ultra",
+      "price": "999€",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQE23ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO_GEO_FR?wid=750&hei=712&trim=1,0&fmt=p-jpg&qlt=95&.v=1660713657930,1660927566964,1661371891068"
+    },
+    {
+      "id": 2,
+      "title": "Apple Watch Series 8",
+      "price": "499€",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKUQ3_VW_34FR+watch-45-alum-midnight-cell-8s_VW_34FR_WF_CO_GEO_FR?wid=1400&hei=1400&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1632171067000%2C1661968678123"
+    },
+    {
+      "id": 3,
+      "title": "Apple Watch SE",
+      "price": "299€",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKUQ3_VW_34FR+watch-44-alum-midnight-nc-se_VW_34FR_WF_CO_GEO_FR?wid=1400&hei=1400&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1632171067000%2C1661467213947"
+    },
+    {
+      "id": 4,
+      "title": "Apple Watch Nike",
+      "price": "339€",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MPH13ref_VW_34FR+watch-45-alum-midnight-nc-8s_VW_34FR_WF_CO_GEO_FR+watch-face-44-nike-se-summitwhite_VW_34FR_WF_CO?wid=1400&hei=1400&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660757970059%2C1661968921380%2C1661719023341"
+    },
+    {
+      "id": 5,
+      "title": "Apple Watch Hermès",
+      "price": "2029€",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MPKF3_VW_34FR+watch-41-stainless-silver-cell-hermes8s_VW_34FR_WF_CO+watch-face-41-hermes8s-complex-noirprint_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660776584926%2C1663623201568%2C1660949557612"
+    }
+  ]
+}
